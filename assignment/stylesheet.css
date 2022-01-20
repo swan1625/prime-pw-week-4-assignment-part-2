@@ -1,0 +1,26 @@
+
+div {
+  background-color: coral;
+}
+
+header {
+  background-color: teal;
+
+}
+
+h2 {
+  background-color: red;
+  color: black;
+  text-align: center;
+}
+
+
+h3 {
+  background-color: red;
+  color: black;
+  text-align: center;
+}
+
+img {
+  border: dotted
+}
